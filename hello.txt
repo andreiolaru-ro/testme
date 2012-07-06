@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world this is another edit
+=======
+hello world this is an edit
+>>>>>>> branch 'master' of git@github.com:andreiolaru-ro/testme.git
