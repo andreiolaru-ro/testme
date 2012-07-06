@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 renew A with other modifs ha ha
 
 
@@ -5,4 +6,13 @@ renew A with other modifs ha ha
 
 
 
+=======
+renew A with modifs
+
+
+
+
+
+
+>>>>>>> branch 'master' of git@github.com:andreiolaru-ro/testme.git
 this is the same
