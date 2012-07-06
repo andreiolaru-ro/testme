@@ -1,7 +1,6 @@
 renew A with modifs
 
 
-
 inter text
 
 
